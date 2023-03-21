@@ -1,0 +1,28 @@
+{
+  "firstName": "Tariqul",
+  "lastName" : "Islam",
+  "nickName" : "Tariq",
+  "email": "tarik.amtoly@gmail.com",
+  "blog": "arc9.tech",
+  "githubUsername": "tariqiitju",
+  "hobbies": [
+
+  ],
+  "social": {
+    "facebook": "fb.com/tariqiitju",
+    "github" : "github.com/tariqiitju",
+    "codeforces": "codeforces.com/profile/tariqiitju",
+    "codechef" : "www.codechef.com/users/tariqiitju",
+    "hackerrank": "www.hackerrank.com/tariqiitju",
+    "leetcode": "leetcode.com/tariqiitju",
+    "instragam": "www.instagram.com/tariq_it_ju",
+    "linkedin": "www.linkedin.com/in/tariqiitju",
+    "twitter": "twitter.com/tariqiitju",
+    "mobile": ""
+  },
+  "professionalIdentities" : [
+    "Backend Developer",
+    "Dev-ops Engineer",
+    "Data Structure and Algorithm Expert"
+  ]
+}

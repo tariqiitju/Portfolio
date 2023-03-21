@@ -1,0 +1,26 @@
+@import url('../../currentcolorscheme.css');
+
+.about-exp-title {
+    color: var(--about-exp-title-color);
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.about-exp p {
+    color: var(--about-exp-p-color);
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.about-exp p:last-child {
+    margin-bottom: 0;
+}
+
+.about-exp p span {
+    font-weight: bold;
+    color: var(--about-exp-span-color);
+    /*margin-right: 5px;*/
+    /*margin-left: 5px;*/
+}

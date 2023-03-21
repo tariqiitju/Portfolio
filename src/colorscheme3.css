@@ -1,0 +1,71 @@
+:root {
+    --primary-color: #F94144;
+    --secondary-color: #F3722C;
+    --background-color: #1E1F26;
+    --body-background-image: linear-gradient(to right, rgba(68, 68, 68, .99), rgba(34, 34, 34, .95));
+    --section-background-color: linear-gradient(to bottom, rgba(43, 43, 43, .98), rgba(18, 18, 18, .92));
+    --image-gradient: linear-gradient(to bottom, rgba(54, 54, 54, .95), rgba(34, 34, 34, .9));
+    --imp-text-color: #F9C74F;
+    --navbar-bg-color: #1E1F26;
+    --webkit-scrollbar-track-background: #292929;
+    --navbar-bg-color-blur: blur(10px);
+    --navbar-shadow-color: rgba(0, 0, 0, 0.2);
+    --scrollbar-track-color: #292929;
+    --scrollbar-thumb-color: #F94144;
+    --scrollbar-thumb-color-hover: #F3722C;
+    --navbar-bg-color-responsive: #1E1F26;
+    --navbar-brand-text-color: #F9C74F;
+    --home-social-icons-background: rgba(255, 255, 255, 0.95);
+    --footer-background-color: #1E1F26;
+    --project-card-view-box-shadow: rgba(255, 195, 113, 0.3);
+    --project-card-view-hover-box-shadow: rgba(255, 195, 113, 0.5);
+    --blog-card-view-box-shadow: rgba(249, 199, 79, 0.3);
+    --blog-card-view-hover-box-shadow: rgba(249, 199, 79, 0.5);
+    --tech-icons-border: #F9C74F;
+    --tech-icons-box-shadow: rgba(249, 199, 79, 0.2);
+    --tech-icons-hover-border: #F3722C;
+    --button-hover-color: #F3722C;
+    --button-color: #F94144;
+    --resume-border: #F94144;
+    --resume-background: #1E1F26;
+    --resume-background-before: #F9C74F;
+    --main-name-color: #F94144;
+    --Typewriter__wrapper-color: #F3722C;
+    --Typewriter__cursor-color: #F9C74F;
+    --home-social-icons-before-background: #F3722C;
+    --home-social-icons-hover--before-box-shadow: #F94144;
+    --home-social-icons-hover-color: #F9C74F;
+    --icon-colour-color: #F9C74F;
+    --btn-primary-color: #fff;
+    --btn-primary-background-color: #F3722C;
+    --btn-primary-border-color: #F3722C;
+    --btn-primary-hover-color: #fff;
+    --btn-primary-hover-background-color: #F94144;
+    --btn-primary-hover-border-color: #F94144;
+    --blockquote-footer-color: #F9C74F;
+    --navbar-nav-and-link-color: #F9C74F;
+    --footer-h3-color: #F9C74F;
+    --blog-link-color: #F9C74F;
+    --project-heading-color: #c3e3fc;
+    --about-section-color: #f4f4f4;
+    --quote-card-view-color: #f2f2f2;
+    --home2-heading-color: #F9C74F; /* matching the imp-text-color */
+    --home2-name-color: #F94144; /* matching the button-color and main-name-color */
+    --project-card-view-color: #c3e3fc;
+    --resume-section-color: #292929;
+    --home-content-color: #f4f4f4;
+    --home-about-description-color: #f4f4f4;
+    --home-about-social-color: #F9C74F;
+    --blog-card-view-color: #f2f2f2;
+    --home2-about-body-color: #f4f4f4;
+    --home2-highlight-text-color: #F5A623;
+    --home2-highlight-text-text-shadow-color: rgba(0, 0, 0, 0.25);
+    --blog-link-hover-color: red;
+
+    /*--about-exp-title-color: blue;*/
+    /*--about-exp-span-color: green;*/
+    /*--about-exp-p-color: red;*/
+    --about-exp-title-color: #F3722C;
+    --about-exp-span-color: #F9C74F;
+    --about-exp-p-color: #f4f4f4;
+}

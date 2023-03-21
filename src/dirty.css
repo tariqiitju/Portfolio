@@ -1,0 +1,21 @@
+:root {
+
+    --home-social-icons-background: rgba(255, 255, 255, 0.972);
+    --footer-background-color: rgb(10, 4, 22);
+    --project-card-view-hover-box-shadow: rgba(129, 72, 144, 0.561);
+    --project-card-view-box-shadow: rgba(119, 53, 136, 0.459);
+    --project-card-view-color: white;
+    --blog-card-view-box-shadow: rgba(145, 77, 161, 0.459);
+    --blog-card-view-hover-box-shadow: rgba(155, 88, 173, 0.65);
+    --tech-icons-border: rgba(200, 137, 230, 0.637);
+    --tech-icons-box-shadow: rgba(89, 4, 168, 0.137);
+    --tech-icons-hover-border: rgba(197, 115, 230, 0.883);
+
+    --resume-border: #8a49a8;
+    --main-name-color: #cd5ff8;
+
+}
+
+.main-name {
+    color: #cd5ff8;
+}

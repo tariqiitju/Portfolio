@@ -1,8 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lato");
+
+@import url('currentcolorscheme.css');
 body {
   margin: 0;
-  font-family: "Raleway", serif !important;
+  font-family: "Lato", serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
+  background-image: var(--body-background-image), url(./Assets/background/darkdotsandlines.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
